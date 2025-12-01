@@ -1,0 +1,9 @@
+Hugo: 50
+Hugo: 100
+hugo: 10
+e: 1
+e: 10
+h: 1
+e: 2
+hugo: 10
+e: 2
