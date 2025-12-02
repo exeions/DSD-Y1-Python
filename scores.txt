@@ -7,3 +7,17 @@ h: 1
 e: 2
 hugo: 10
 e: 2
+hugo: 10
+e: 0
+hugo: 100000
+hugo: 100
+hugo: 999999999999
+hugo: he
+hugo: 155
+hugo: 5
+hugo: 2
+yes: 2
+yes: 2
+y: 20
+33: 5
+hugo: 20
